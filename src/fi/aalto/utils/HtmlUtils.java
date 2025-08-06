@@ -22,7 +22,7 @@ import java.io.StringWriter;
 import java.io.Writer;
 import java.util.Map;
 
-import javax.servlet.http.HttpServletResponse;
+import jakarta.servlet.http.HttpServletResponse;
 
 
 /** Utilities related to outputting HTML. */
