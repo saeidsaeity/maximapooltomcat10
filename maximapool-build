@@ -27,7 +27,7 @@ MAXIMAPOOL=/var/lib/maximapool
 # Tomcat 8 location
 # TOMCAT=/usr/share/tomcat8
 # TOMCAT=/var/lib/tomcat8
-TOMCAT=/var/lib/tomcat8
+TOMCAT=/var/lib/tomcat10
 
 # The root directory of the moodle site on the server is $MOODLE. (This should have the moodle config.php file in it.)
 MOODLE=/var/www/moodle
